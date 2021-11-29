@@ -18,7 +18,7 @@
     "jszip": "^3.2.2",
     "jszip-utils": "^0.1.0",
     "less-loader": "^5.0.0",
-    "mavon-editor": "^2.6.17",
+    "mavon-editor": "^2.8.2",
     "modify-image-upload": "^1.0.4",
     "pizzip": "^3.0.6",
     "sass-loader": "^8.0.0",
